@@ -64,3 +64,47 @@ Style
 
 - Whitespace
   - Multiples of 16px
+
+---
+
+## Backend
+
+Database
+
+- MongoDB
+  - Mongoose
+
+Templating engine
+
+- ejs
+
+Server
+
+- Express
+
+Routes
+
+- get('/')
+- post('/delete-entry')
+- post('/edit') ? you gotta autosave though TODO: figure out how to save
+- post('/new')
+
+Authentication
+
+- csurf
+- bcrypt
+- nodemailer
+- express-session
+
+File download
+
+- fs
+
+TODO: how to save written entries on db <br>
+TODO: how to encrypt entries on db
+
+## Deploy
+
+Heroku
+
+- Github Pro
