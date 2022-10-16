@@ -57,13 +57,20 @@ Style
   - #363946 Onyx
   - #9CD08F Granny Smith Apple (Accent)
   - #696773 Dim Gray
+    - #b4b3b9 50% tint
+    - #d7d7da 80% tint
 
 - Icon-pack
 
   - [ionicons](https://ionic.io/ionicons)
+    - filled
+    - #363946
 
 - Whitespace
+
   - Multiples of 16px
+
+<!-- - [Figma](https://www.figma.com/file/7rO2tzkyAYWrOd5mGa4l5W/writtenThoughts?node-id=0%3A1) -->
 
 ---
 
