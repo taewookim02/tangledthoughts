@@ -42,7 +42,9 @@ Index
 - delete button
   - Are you sure you want to delete?
 
-Style
+---
+
+## Style
 
 - Minimalistic/Simple
 - Typography
@@ -70,7 +72,7 @@ Style
 
   - Multiples of 16px
 
-<!-- - [Figma](https://www.figma.com/file/7rO2tzkyAYWrOd5mGa4l5W/writtenThoughts?node-id=0%3A1) -->
+- [Figma](https://www.figma.com/file/7rO2tzkyAYWrOd5mGa4l5W/writtenThoughts?node-id=0%3A1)
 
 ---
 
