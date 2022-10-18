@@ -42,8 +42,6 @@ Index
 - delete button
   - Are you sure you want to delete?
 
----
-
 ## Style
 
 - Minimalistic/Simple
@@ -73,8 +71,6 @@ Index
   - Multiples of 16px
 
 - [Figma](https://www.figma.com/file/7rO2tzkyAYWrOd5mGa4l5W/writtenThoughts?node-id=0%3A1)
-
----
 
 ## Backend
 
@@ -117,3 +113,17 @@ TODO: how to encrypt entries on db
 Heroku
 
 - Github Pro
+
+## Workflow
+
+1. Figma (2 weeks)
+   - Design
+   - Prototype
+2. Publish (2 weeks)
+   - HTML, Sass, JS based on prototype
+3. Backend (3 weeks)
+   - HTML to ejs
+   - Server with express
+   - Routing with express
+   - Authentication
+   - Mongoose
