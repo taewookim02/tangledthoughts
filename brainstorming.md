@@ -116,6 +116,9 @@ Heroku
 
 ## Workflow
 
+Start date: 10 Nov 2022 <br>
+End date:
+
 1. Figma (2 weeks)
    - Design
    - Prototype
