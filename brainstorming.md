@@ -65,6 +65,7 @@ Index
   - [ionicons](https://ionic.io/ionicons)
     - filled
     - #363946
+  - [phosphorsIcons](https://phosphoricons.com/)
 
 - Whitespace
 
